@@ -9,10 +9,10 @@
 
 
 # iOS Screenshot
-//<img src="https://user-images.githubusercontent.com/89917952/133978708-f52ffbd8-f721-4d68-b593-e0e1d64751d7.png" align="left" height="800" width="400" >
+
 
 # Web Application Screenshot
-//<img src="https://user-images.githubusercontent.com/89917952/133978832-ebb2f9b2-c8f9-4ecd-9554-7d294c412b0c.png" align="left" height="800" width="400" >
+
 
 Thanks & Regards\
 Jaydeep Dhamecha
